@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Fakhry.
-
+![](https://komarev.com/ghpvc/?username=yfakhrymubarak&style=flat)\
 An independent Software Engineer who loves to create and share projects about mobile technology! I've enjoyed Kotlin and make it the main language in creating a project.
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> -->
@@ -26,4 +26,4 @@ An independent Software Engineer who loves to create and share projects about mo
 ### Reach me on
 - <a href="https://linkedin.com/in/fakhrymubarak/">LinkedIn</a>
 - fakhrymubarak@gmail.com
-- <a href="https://twitter/fakhry.m_">Instagram</a>
+- <a href="https://instagram.com/fakhry.m_">Instagram</a>
